@@ -1,0 +1,8 @@
+**/*.png
+**/*.eps
+**/*.xcf
+**/*.odg
+**/ProbGen
+bottleneck/nobottleneck
+**/*.pdf
+Manuscript
